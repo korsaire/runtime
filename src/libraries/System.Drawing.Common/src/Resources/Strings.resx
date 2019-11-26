@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -454,5 +455,8 @@
   </data>
   <data name="ValueNotOneOfValues" xml:space="preserve">
     <value>The value of the {0} property is not one of the {1} values</value>
+  </data>
+  <data name="IO_PathNotFound_Path" xml:space="preserve">
+    <value>Could not find a part of the path '{0}'.</value>
   </data>
 </root>
